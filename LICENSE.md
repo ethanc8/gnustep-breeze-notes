@@ -1,0 +1,1 @@
+Everything in this repo is licensed under GPL-2.0-or-later.
