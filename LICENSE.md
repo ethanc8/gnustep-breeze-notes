@@ -1,1 +1,1 @@
-Everything in this repo is licensed under GPL-2.0-or-later.
+Everything in this repo is licensed under LGPL-2.1-or-later.
